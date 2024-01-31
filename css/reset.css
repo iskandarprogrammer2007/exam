@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+
+*,*::after,*::before{
+    box-sizing: border-box;
+    transition: 0.3s;
+}
+
+input{
+    outline: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container{
+    width: var(--container-width);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    color: inherit;
+}
+
+.df{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

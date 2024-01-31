@@ -1,0 +1,11 @@
+:root{
+    --container-width: 75%;
+    --text-color:#252B42;
+    --nav__list-gap:30px;
+    --second-text-color:#737373;
+    --primary-color:#00A0C1;
+    --first-color:black;
+    --secondary-color:white;
+    --third-color: orange;
+    --about-card-width:22%;
+}
